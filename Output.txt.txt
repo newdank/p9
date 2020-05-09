@@ -1,0 +1,11 @@
+1) The output from the code we have submitted would be :-
+   
+    The total time taken is : 17 Minutes.
+
+    \\* The current input data is 1,2,4,10. if this changes in ARRAY, then the output changes.
+
+
+
+2) A total of 96 operations would take place.
+
+THANK YOU.
